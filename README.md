@@ -161,7 +161,7 @@ Wait for Input
 
 ## 🎥 Demo Video
 
-> 📹 **[https://youtube.com/shorts/m80ZRAqRTQ8?feature=share](#)** ← *(Click here to watch the project demo)*
+> 📹 **[[https://youtube.com/shorts/m80ZRAqRTQ8?feature=share](https://youtube.com/shorts/m80ZRAqRTQ8?feature=share)](#)** ← *(Click here to watch the project demo)*
 
 ---
 
