@@ -167,7 +167,7 @@ Wait for Input
 
 ## 👨‍💻 Author
 
-**[Ramasamy.V]**
+**[Ramasamy.V,Naveen Kumar.J,Pothi Mathavan]**
 - 🎓 Final Year — [Electronics and Communication Engineering], [Ramco Institute of Technology]
 - 📍 Virudhunagar, Tamil Nadu
 - 💼 [https://www.linkedin.com/in/ramasamy-v-b4b074308/]
@@ -177,7 +177,7 @@ Wait for Input
 
 ## 🏷️ Tags
 
-`STM32` `Embedded Systems` `IoT` `Accessibility` `Eye Gesture` `Voice Recognition` `Stepper Motor` `UART` `Offline AI` `Assistive Technology` `Final Year Project` `C++` `Arduino Framework` `Disabled Assistance`
+`STM32` `Embedded Systems` `Accessibility` `Eye Gesture` `Voice Recognition` `Stepper Motor` `UART` `Offline AI` `Assistive Technology` `Final Year Project` `C++` `Arduino Framework` `Disabled Assistance`
 
 ---
 
