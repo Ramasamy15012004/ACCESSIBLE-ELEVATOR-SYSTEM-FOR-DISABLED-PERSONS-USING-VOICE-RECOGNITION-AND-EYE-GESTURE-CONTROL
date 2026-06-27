@@ -78,10 +78,8 @@ Second Floor → 3 beeps
 ```
 ├── firmware/
 │   └── main.ino          # Main STM32 firmware (Arduino framework)
-├── hardware/
-│   └── circuit_diagram   # Wiring and connection diagrams
-├── demo/
-│   └── demo_video_link   # Link to project demo video
+├── Images/
+│   └── Block Diagram   # Wiring and connection diagrams
 ├── docs/
 │   └── project_report    # Full project documentation
 └── README.md
